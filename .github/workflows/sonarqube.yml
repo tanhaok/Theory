@@ -1,4 +1,4 @@
-name: Build
+name: Scan Code
 on:
   push:
     branches:
